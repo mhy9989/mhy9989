@@ -1,7 +1,6 @@
 [![typograssy](https://typograssy.deno.dev/api?text=mhy9989)](https://github.com/kawarimidoll/typograssy)
 
-## 📈 GitHub Activity Graph:
-![mhy9989's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mhy9989&hide_border=true&theme=redical)
+
 
  . | .
 --- | --- 
