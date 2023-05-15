@@ -1,5 +1,7 @@
-[![typograssy](https://typograssy.deno.dev/api?text=mhy9989)](https://github.com/kawarimidoll/typograssy)
 
+<p align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=mhy9989&title_color=ffaabb&bg_color=373e47&text_color=a9fef7&icon_color=ffaabb&hide_border=true&show_icons=true&locale=cn'>
+</p>
 
 ## 📈 GitHub Activity Graph:
 ![mhy9989's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mhy9989&hide_border=true&theme=redical)
