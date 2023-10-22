@@ -25,9 +25,7 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: mhy9989
-          outputs: |
-            dist/github-snake.svg?palette=github-light
-            dist/github-snake-dark.svg?palette=github-dark
+          outputs: dist/github-snake-dark.svg?palette=github-dark
         
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
